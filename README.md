@@ -20,6 +20,5 @@
  git clone [https://github.com/zerihundagne880-bot/Daily-Expense-Tracker-CPP.git](https://github.com/zerihundagne880-bot/Daily-Expense-Tracker-CPP.git)
 2. በ g++ ኮምፓይል ያድርጉ:
 g++ main.cpp -o expense_tracker
-3. ፕሮግራሙን ያስነሱ:
-./expense_tracker
+3. ፕሮግራሙን ያስነሱ:./expense_tracker
 Developed by:zerihun dagne
